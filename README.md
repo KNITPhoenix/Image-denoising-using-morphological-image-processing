@@ -7,8 +7,8 @@ We are allowed to use Numpy EXCEPT any functions or APIs directly related to mor
 
 ![alt text](https://github.com/KNITPhoenix/Image-denoising-using-morphological-image-processing/blob/main/task3.png?raw=true)
 
-!(https://github.com/KNITPhoenix/Image-denoising-using-morphological-image-processing/blob/main/task3_boundary.jpg?raw=true)
+![alt text](https://github.com/KNITPhoenix/Image-denoising-using-morphological-image-processing/blob/main/task3_boundary.jpg?raw=true)
 
 # Result
 
-!(https://github.com/KNITPhoenix/Image-denoising-using-morphological-image-processing/blob/main/task3_denoise.jpg?raw=true)
+![alt txt](https://github.com/KNITPhoenix/Image-denoising-using-morphological-image-processing/blob/main/task3_denoise.jpg?raw=true)
